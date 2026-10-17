@@ -1,0 +1,88 @@
+AFib
+atrial fibrillation
+AKI
+acute kidney injury
+BMI
+body mass index
+BMP
+basic metabolic panel
+BP
+blood pressure
+b.i.d.
+twice daily
+CAD
+coronary artery disease
+CBC
+complete blood count
+CHF
+congestive heart failure
+CKD
+chronic kidney disease
+COPD
+chronic obstructive pulmonary disease
+CP
+chest pain
+CVA
+cerebrovascular accident (stroke)
+CXR
+chest X-ray
+DM
+diabetes mellitus
+DOE
+dyspnea on exertion
+DVT
+deep vein thrombosis
+ECG/EKG
+electrocardiogram
+eGFR
+estimated glomerular filtration rate
+GI
+gastrointestinal
+HbA1c
+hemoglobin A1c
+Hct
+hematocrit
+Hgb
+hemoglobin
+HR
+heart rate
+HTN
+hypertension
+IBD
+inflammatory bowel disease
+IM
+intramuscular
+IV
+intravenous
+LFTs
+liver function tests
+MI
+myocardial infarction (heart attack)
+MRI
+magnetic resonance imaging
+NPO
+nothing by mouth
+PE
+pulmonary embolism
+PO
+by mouth
+PRN
+as needed
+q.d.
+once daily
+q.i.d.
+four times daily
+RR
+respiratory rate
+SOB
+shortness of breath
+SpO2
+oxygen saturation
+TIA
+transient ischemic attack
+t.i.d.
+three times daily
+UTI
+urinary tract infection
+WBC
+white blood cell count
