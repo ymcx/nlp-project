@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 390" role="img" aria-labelledby="pipeline-title pipeline-description">
+  <title id="pipeline-title">Clinical summarization pipeline</title>
+  <desc id="pipeline-description">Source note flows through extraction, drafting, verification, and revision to a final summary. The source note also goes to verification, and the initial draft also goes to revision.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect width="1220" height="390" rx="16" fill="#ffffff"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#0f172a">
+    <text x="610" y="38" font-size="23" font-weight="bold">Clinical summarization: data flow between agents</text>
+    <g fill="none" stroke="#475569" stroke-width="2" marker-end="url(#arrow)">
+      <path d="M 180 205 H 220"/>
+      <path d="M 380 205 H 420"/>
+      <path d="M 580 205 H 620"/>
+      <path d="M 780 205 H 820"/>
+      <path d="M 980 205 H 1020"/>
+      <path d="M 100 160 V 93 H 700 V 160" stroke-dasharray="6 4"/>
+      <path d="M 500 250 V 313 H 900 V 250" stroke-dasharray="6 4"/>
+    </g>
+    <g font-size="12" fill="#475569">
+      <text x="300" y="145">Patient details (JSON)</text>
+      <text x="500" y="145">Initial draft</text>
+      <text x="800" y="145">Verification log</text>
+      <text x="400" y="82">Original note used as evidence</text>
+      <text x="700" y="337">Initial draft retained for revision</text>
+    </g>
+    <g stroke-width="1.5">
+      <rect x="20" y="160" width="160" height="90" rx="12" fill="#f1f5f9" stroke="#94a3b8"/>
+      <rect x="220" y="160" width="160" height="90" rx="12" fill="#dbeafe" stroke="#3b82f6"/>
+      <rect x="420" y="160" width="160" height="90" rx="12" fill="#e0e7ff" stroke="#6366f1"/>
+      <rect x="620" y="160" width="160" height="90" rx="12" fill="#fef3c7" stroke="#d97706"/>
+      <rect x="820" y="160" width="160" height="90" rx="12" fill="#dcfce7" stroke="#16a34a"/>
+      <rect x="1020" y="160" width="180" height="90" rx="12" fill="#f1f5f9" stroke="#94a3b8"/>
+    </g>
+    <g font-size="16" font-weight="bold">
+      <text x="100" y="201">Source note</text>
+      <text x="300" y="201">Extraction</text>
+      <text x="500" y="201">Drafting</text>
+      <text x="700" y="201">Verification</text>
+      <text x="900" y="201">Revision</text>
+      <text x="1110" y="201">Final summary</text>
+    </g>
+    <g font-size="12" fill="#475569">
+      <text x="100" y="224">Original clinical text</text>
+      <text x="300" y="224">Agent 1</text>
+      <text x="500" y="224">Agent 2</text>
+      <text x="700" y="224">Agent 3: two calls</text>
+      <text x="900" y="224">Agent 4</text>
+      <text x="1110" y="224">Revised clinical text</text>
+      <text x="610" y="370">Solid arrows: main workflow. Dashed arrows: additional inputs.</text>
+    </g>
+  </g>
+</svg>
