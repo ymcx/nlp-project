@@ -1,0 +1,26 @@
+{
+  "measurement_type": "dummy",
+  "description": "Invented values for previewing the scatter plot only; not measured experimental results.",
+  "records": [
+    {"case_id": 1, "statements_checked": 8, "verification_seconds": 24.5},
+    {"case_id": 2, "statements_checked": 12, "verification_seconds": 35.2},
+    {"case_id": 3, "statements_checked": 6, "verification_seconds": 21.8},
+    {"case_id": 4, "statements_checked": 18, "verification_seconds": 49.6},
+    {"case_id": 5, "statements_checked": 10, "verification_seconds": 31.4},
+    {"case_id": 6, "statements_checked": 15, "verification_seconds": 47.1},
+    {"case_id": 7, "statements_checked": 22, "verification_seconds": 65.3},
+    {"case_id": 8, "statements_checked": 9, "verification_seconds": 33.7},
+    {"case_id": 9, "statements_checked": 14, "verification_seconds": 39.5},
+    {"case_id": 10, "statements_checked": 25, "verification_seconds": 70.8},
+    {"case_id": 11, "statements_checked": 11, "verification_seconds": 29.9},
+    {"case_id": 12, "statements_checked": 17, "verification_seconds": 53.2},
+    {"case_id": 13, "statements_checked": 7, "verification_seconds": 19.6},
+    {"case_id": 14, "statements_checked": 20, "verification_seconds": 57.4},
+    {"case_id": 15, "statements_checked": 13, "verification_seconds": 43.1},
+    {"case_id": 16, "statements_checked": 16, "verification_seconds": 42.8},
+    {"case_id": 17, "statements_checked": 24, "verification_seconds": 74.2},
+    {"case_id": 18, "statements_checked": 10, "verification_seconds": 36.5},
+    {"case_id": 19, "statements_checked": 19, "verification_seconds": 51.7},
+    {"case_id": 20, "statements_checked": 15, "verification_seconds": 38.6}
+  ]
+}
