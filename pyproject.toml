@@ -1,0 +1,20 @@
+[project]
+name = "nlp-project"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "bert-score>=0.3.13",
+    "datasets>=5.1.0",
+    "huggingface-hub>=2.3.0",
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "nltk>=3.10.4",
+    "pandas>=3.1.0",
+    "rank-bm25>=0.2.2",
+    "rouge-score>=0.1.2",
+    "torch>=2.14.1",
+    "transformers>=5.21.0",
+]
+
+# There's no way you, as a TA, are going to be doing any inference on this notebook. But if you would, you'd need to make sure that PyTorch is using your GPU. Here's a good article for doing so using uv:
+# https://docs.astral.sh/uv/guides/integration/pytorch
